@@ -1,26 +1,22 @@
-🪧 Demo :-
----
+## Documentation
 
-About the Project :-
+⏰ FrontEnd Alarm Clock Using JavaScript
 
-🔴 This project is an clocked based alarm project
-🔴 You can set alarm at any desired time.
-🔴 The most important thing about this project is it makes use of local storage of your browser that means if you accidentally close the tab or entire
-window, the alarm you set is not gone. When you revisit the page you find it same as you left
-🔴 It also remembers at what time did you set alarm last time
+The alarm clock project is a simple web-based application that allows users to set and manage alarms. The user interface consists of a digital clock display, input fields for setting the alarm time, buttons for starting, stopping, and deleting alarms, and a sound or message to indicate when the alarm goes off.
 
----
+To create the interface, HTML is used to structure the page and define the elements of the user interface, including the clock display, input fields, and buttons. CSS is used to style the interface, making it visually appealing and easy to use.
 
-📐 Installation :-
+JavaScript is used to handle the logic of the application, including setting and managing alarms, updating the clock display, and triggering the alarm sound or message. When the user sets an alarm, JavaScript stores the time in a variable and checks it against the current time displayed on the clock. When the alarm time matches the current time, the alarm sound or message is triggered and the user is notified.
 
-Nothing crazy just download the zip and run LIVE_SERVER.
+## Features
 
----
+- 1️⃣2️⃣ hr / 2️⃣4️⃣ hr Timeing
+- ☀ Light / 🌙 dark mode toggle
+- 🕣 Digital Clock
+- ✅ Set Multiple Alarm / ❎ Delete Alarm
+- 💾 Local Storage for ALarm List
+- 🔔 Push notification
+- Fully Responsive 🖥 Desktop / 💻 Laptop / 📱 Mobile
 
-🪛 Built With :-
-
-🟠 HTML
-🟠 Pure CSS
-🟠 Vanilla Javascript
 
 
